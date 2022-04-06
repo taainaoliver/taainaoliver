@@ -1,5 +1,5 @@
 <h1>Olá, mundo! 🙋🏾‍♀️</h1>
-<ul
+<ul>
   <li> 📚 Estudante de Sistemas para Internet pela UAM </li>
   <li> 👩🏾‍🎓 Formada em Produção Audiovisual</li>
   <li> 📓 Fiz parte do Bootcamp Inter Frontend Developer</li>
